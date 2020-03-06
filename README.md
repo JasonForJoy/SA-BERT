@@ -33,3 +33,6 @@ bash ubuntu_v1_test.sh
 ```
 A "output_test.txt" file which records scores for each context-response pair will be saved to the path of ```restore_model_dir```. <br>
 Copy this ```output_test.txt``` file to ```scripts/``` and run ```python compute_metrics.py```, various metrics will be shown.
+
+## Update
+Please feel free to open issues if you have some problems.
