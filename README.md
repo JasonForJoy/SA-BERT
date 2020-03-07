@@ -1,6 +1,11 @@
 # BERT for Multi-Turn Response Selection
 Implementation of the BERT model for multi-turn response selection in retrieval-based chatbots with Tensorflow
 
+## Results
+| Model       |  R_2@1  |  R_10@1  |  R_10@2  |  R_10@5  |
+| ----------- | ------- | -------- | -------- | -------- |
+| BERT_base   | 0.950   |  0.810   |  0.897   |  0.975   |
+
 ## Dependencies
 Python 3.6 <br>
 Tensorflow 1.13.1
