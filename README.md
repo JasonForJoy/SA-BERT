@@ -1,12 +1,12 @@
 # SA-BERT for Multi-Turn Response Selection
-This repository contains the source code and pre-trained model for the CIKM 2020 paper [Speaker-Aware BERT for Multi-Turn Response Selection in Retrieval-Based Chatbots](https://arxiv.org/pdf/2004.03588.pdf) by Gu et al. <br>
+This repository contains the source code and pre-trained models for the CIKM 2020 paper [Speaker-Aware BERT for Multi-Turn Response Selection in Retrieval-Based Chatbots](https://arxiv.org/pdf/2004.03588.pdf) by Gu et al. <br>
 
 ## Results
 <img src="image/UbuntuV1_V2.png">
 <img src="image/Douban_Ecommerce.png">
 
 ## Cite
-If you use the code and datasets, please cite the following paper:
+If you use the source code and pre-trained models, please cite the following paper:
 **"Speaker-Aware BERT for Multi-Turn Response Selection in Retrieval-Based Chatbots"**
 Jia-Chen Gu, Tianda Li, Quan Liu, Zhen-Hua Ling, Zhiming Su, Si Wei, Xiaodan Zhu. _CIKM (2020)_
 
