@@ -197,7 +197,7 @@ def create_training_instances(context, response, switch, tokenizer, max_seq_leng
   vocab_words = list(tokenizer.vocab.keys())
   instances = []
   for _ in tqdm(range(dupe_factor)):
-      for i in range(len(sid_r)):
+      for i in tqdm(range(len(sid_r))):
 
           sent_a = []
           switch_a = []
